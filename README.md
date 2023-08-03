@@ -43,13 +43,13 @@
   <table align="center">
     <tbody>
       <tr>
-        <td align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agamswaroop619&show_icons=true&locale=en&layout=compact" alt="agamswaroop619" /></td>
+        <td align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agamswaroop619&show_icons=true&locale=en&layout=compact" alt="agamswaroop619" /></td>
       </tr>
       <tr>
-        <td align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agamswaroop619&show_icons=true&locale=en" alt="agamswaroop619" /></td>
+        <td align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agamswaroop619&show_icons=true&locale=en" alt="agamswaroop619" /></td>
       </tr>
       <tr>
-        <td align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agamswaroop619&" alt="agamswaroop619" /></td>
+        <td align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agamswaroop619&" alt="agamswaroop619" /></td>
       </tr>
     </tbody>
   </table>
