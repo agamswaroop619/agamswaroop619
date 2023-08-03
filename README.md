@@ -15,10 +15,10 @@
     </thead>
     <tbody>
       <tr>
-        <td align="left"><img src="https://komarev.com/ghpvc/?username=agamswaroop619&label=Profile%20views&color=0e75b6&style=flat" alt="agamswaroop619" /></td>
+        <td align="center"><img src="https://komarev.com/ghpvc/?username=agamswaroop619&label=Profile%20views&color=0e75b6&style=flat" alt="agamswaroop619" /></td>
       </tr>
       <tr>
-        <td align="left">🔭 I’m currently working on MERN Stack Projects</td>
+        <td align="center">🔭 I’m currently working on MERN Stack Projects</td>
       </tr>
     </tbody>
   </table>
@@ -26,10 +26,10 @@
   <table align="center">
     <tbody>
       <tr>
-        <td align="left"><h3>Connect with Me:</h3></td>
+        <td align="center"><h3>Connect with Me:</h3></td>
       </tr>
       <tr>
-        <td align="left">
+        <td align="center">
           <a href="https://www.linkedin.com/in/atam-swaroop-47974a257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Atam-Swaroop-linkdin" height="30" width="40" /></a>
         </td>
       </tr>
