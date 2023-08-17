@@ -13,6 +13,8 @@
       <tr>
         <td align="left">🔭 I’m currently working on MERN Stack Projects
         </td>
+      </tr>
+      <tr>
         <td align="right">🎯 I’m learning basic of AI and ML
         </td>
       </tr>
