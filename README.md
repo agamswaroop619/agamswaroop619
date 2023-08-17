@@ -38,9 +38,6 @@
   <table align="center">
     <tbody>
       <tr>
-        <td align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agamswaroop619&show_icons=true&locale=en&layout=compact&theme=merko" alt="agamswaroop619" /></td>
-      </tr>
-      <tr>
         <td align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agamswaroop619&show_icons=true&locale=en&theme=merko" alt="agamswaroop619" /></td>
       </tr>
       <tr>
