@@ -3,9 +3,7 @@
 <body>
   <table align="center">
     <tbody>
-      <tr>
         <th colspan="2" align="center"><h1>Hello World! I'm Atam Swaroop from DEI</h1></th>
-      </tr>
       <tr>
         <th colspan="2" align="center"><h3>A Full Stack Web Developer </h3></th>
       </tr>
@@ -15,7 +13,7 @@
       <tr>
         <td align="center">🔭 I’m currently working on MERN Stack Projects
         </td>
-        <td align="center">🔭 I’m learning basic of AI and ML
+        <td align="center">🎯 I’m learning basic of AI and ML
         </td>
       </tr>
     </tbody>
