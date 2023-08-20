@@ -5,10 +5,7 @@
     <tbody>
         <th colspan="2" align="center"><h1>Hello World! I'm Atam Swaroop from DEI</h1></th>
       <tr>
-        <th colspan="2" align="center"><h3>A Full Stack Web Developer </h3></th>
-      </tr>
-      <tr>
-        <th colspan="2" align="center"><h3> Open-Source Enthusiast </h3></th>
+        <th colspan="2" align="center"><h3>A Full Stack Web Developer & Open-Source Enthusiast</h3></th>
       </tr>
       <tr>
         <td align="center"><img src="https://komarev.com/ghpvc/?username=agamswaroop619&label=Profile%20views&color=0e75b6&style=flat" alt="agamswaroop619" /></td>
