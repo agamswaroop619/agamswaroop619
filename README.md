@@ -11,11 +11,11 @@
         <td align="center"><img src="https://komarev.com/ghpvc/?username=agamswaroop619&label=Profile%20views&color=0e75b6&style=flat" alt="agamswaroop619" /></td>
       </tr>
       <tr>
-        <td align="center">🔭 I’m currently working on MERN Stack Projects
+        <td align="center">🔭 I’m currently working on MERN Stack Projects.
         </td>
       </tr>
       <tr>
-        <td align="center">🎯 I’m learning basic of AI and ML
+        <td align="center">🎯 I’m learning basic of AI and ML.
         </td>
       </tr>
     </tbody>
