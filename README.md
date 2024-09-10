@@ -14,10 +14,6 @@
         <td align="center">🔭 I’m currently working on MERN Stack Projects.
         </td>
       </tr>
-      <tr>
-        <td align="center">🎯 I’m learning basic of AI and ML.
-        </td>
-      </tr>
     </tbody>
   </table>
 
