@@ -3,7 +3,7 @@
 <body>
   <table align="center">
     <tbody>
-        <th colspan="2" align="center"><h1>Hello World! I'm Atam Swaroop from DEI</h1></th>
+        <th colspan="2" align="center"><h1>Hello World! I'm Atam Swaroop!</h1></th>
       <tr>
         <th colspan="2" align="center"><h3>A Full Stack Web Developer & Open-Source Enthusiast</h3></th>
       </tr>
